@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Video Game Sales Prediction (Linear Regression and XGBoost)](https://github.com/ImVikashKr/Video-game-sales-prediction)
 
-<img src="images/vg.jpeg?raw=true"/>
+<img src="images/vg.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -20,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Heart Failure Prediction (Classification Machine Learning)](https://github.com/ImVikashKr/Heart-failure-prediction)
 
-<img src="images/heartfailure.jpeg?raw=true"/>
+<img src="images/heartfailure.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -38,7 +38,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Paris House Price Prediction (Linear Regression)](https://github.com/ImVikashKr/Paris-House-price-prediction)
 
-<img src="images/houseprice.jpeg?raw=true"/>
+<img src="images/houseprice.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -53,7 +53,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Diabetese prediction ](https://github.com/ImVikashKr/Diabetese-prediction)
 
-<img src="images/Diabetese.jpeg?raw=true"/>
+<img src="images/diabetese.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
