@@ -4,70 +4,62 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/rumanus-egu/Linear-Regression-Project/blob/main/Linear_Regression_Project.ipynb)
+[Video Game Sales Prediction (Linear Regression and XGBoost)](https://github.com/ImVikashKr/Video-game-sales-prediction)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/vg.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+**Project Objective:**  In this project the aim is to predict the video game sale based on the various features collected and stored in a dataset.we will use the linear regression method to analyse the problem and use various modeling technique to find which model provides the better accuracy 
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/rumanus-egu/Linear-Regression-Project/blob/main/Linear_Regression_Project.ipynb).
+**Quantifiable result:** We could Predict the Video Game sales prediction with an accuracy of 98.75%
+- Used the Linear regression model to find the accuracy 
+- Also used XGBoost Algorithm two compare the two model
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+***
+
+[Heart Failure Prediction (Classification Machine Learning)](https://github.com/ImVikashKr/Heart-failure-prediction)
+
+<img src="images/heartfailure.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:**  Using Various machine learning algorithm to predict heart disease prediction in Python, We used logistic  Regression,  KNN, Random Forest etc as a classifier forHeart Desease prediction
+
+**Quantifiable result:**  We could predict Employee Attrition using a logistic regression model. With accuracy of 85%
+- The accuracy of the KNN model is 71% Tat k=6
+- Naive bayes accuracy is 83%
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
+- The selected best model is based on train and test performance.
+
+
+***
+***
+
+[Paris House Price Prediction (Linear Regression)](https://github.com/ImVikashKr/Paris-House-price-prediction)
+
+<img src="images/houseprice.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** In this project the aim is to predict the house price of paris based on the various features collected and stored in a dataset.we will use the linear regression  and fandom forest method to analyse the problem and use various modeling technique to find which model provides the better accuracy
+
+**Quantifiable result:**  We could use regression and random forest which helps us to predict the Score. Result 99% accuracy using random forest 
+- Used Random ForestXGBRegressor and Linear regression to predict the house price
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/rumanus-egu/Knn_Nb_Project/blob/main/Knn_Nb_Project.ipynb)
+[Diabetese prediction ](https://github.com/ImVikashKr/Diabetese-prediction)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
-
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/rumanus-egu/Knn_Nb_Project/blob/main/Knn_Nb_Project.ipynb).
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
-
-***
-***
-
-[Bank data](https://github.com/rumanus-egu/Logistic-Regression-Project/blob/main/6_Logistic_Regression_Project.ipynb)
-
-<img src="images/bank image.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
-
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/rumanus-egu/Logistic-Regression-Project/blob/main/6_Logistic_Regression_Project.ipynb).
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
-
-***
-
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
-
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/Diabetese.jpeg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** In this project we will try to find wheather a person hhas diabetes or not based on various health conditions. This is a classsification problem hence we will try to predict the answwer using KNN or NB model technique
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
-
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+**Quantifiable result:**  We could use regression, which helps us to predict weather the person having diabetese or not with . 99.7 % accuracy
+- Data visualization to see correlation factors
+- Machine learning: Naive Bayes,  Logistic  regression Random forest, XGBooster.
+- The selected best model is based on the train and test performance
